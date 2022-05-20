@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Jakub0312
 - 👀 I’m interested in Gaming
 - 🌱 I’m currently learning  IT
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Jakubbelczyk02@gmail.com
 
 <!---
